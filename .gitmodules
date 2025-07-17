@@ -1,0 +1,3 @@
+[submodule "auto-tools"]
+	path = auto-tools
+	url = ssh://git@stash.logicmonitor.com:7999/dev/auto-tools.git
